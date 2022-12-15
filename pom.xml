@@ -50,7 +50,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>docker-img</finalName>
+		<finalName>testdocker</finalName>
 	</build>
 
 </project>
