@@ -13,4 +13,8 @@ public class HomeController {
     public String viewPage() {
         return "Welcome to View Page";
     }
+    @GetMapping("/test")
+    public String testPage() {
+        return "This is test page";
+    }
 }
